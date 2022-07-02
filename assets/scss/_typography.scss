@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+a, a:hover{
+     text-decoration: none;
+}
+
+body{
+     font-size: $body_font_size;
+     font-family: $font1;
+     font-weight: $regular;
+     line-height: $body_font_size + 8;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6{
+     font-family: $font2;
+     font-weight: $bold;
+}
+
+img{
+     max-width: 100%;
+     max-height: 100%;
+}
+
+.sp1{
+     padding: 130px 0 100px;
+}
+.sp2{
+     padding: 130px 0;
+}
+
+
+.space10{
+     height: 10px;
+}
+.space20{
+     height: 20px;
+}
+.space30{
+     height: 30px;
+}
+.space40{
+     height: 40px;
+}
+.space50{
+     height: 50px;
+}
+.space60{
+     height: 60px;
+}
+.space70{
+     height: 70px;
+}
+.space80{
+     height: 80px;
+}
+.space90{
+     height: 90px;
+}
+.space100{
+     height: 100px;
+}
