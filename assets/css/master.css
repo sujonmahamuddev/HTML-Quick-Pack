@@ -1,6 +1,6 @@
 /*
 ============================
-Name: 
+Name:  Consultic - Business Consulting Theme
 Version: 1.0.0
 Description:
 Author: Sujon mahamud
@@ -8,3 +8,60 @@ Author URI:
 Location:
 ============================
 */
+
+
+/*
+
+CSS LIST =====>
+
+===========================
+HEADER AREA CSS
+===========================
+WELCOME AREA CSS
+===========================
+LOGO AREA CSS
+===========================
+FEAUTURE AREA CSS
+===========================
+FEAUTURES MEETING AREA CSS
+===========================
+PRICNIG AREA CSS
+===========================
+COMPANY AREA CSS
+===========================
+CLIENT AREA CSS
+===========================
+FOOTER AREA CSS
+===========================
+HOME PAGE 2 AREA CSS
+===========================
+
+
+
+/*----===========HEADER AREA CSS----============*/
+
+.header-area {
+    background: pink;
+}
+
+.header-elements {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.stellarnav.mobile ul {position: absolute;width: 100%;left: 0;top: auto;background: #;}
+
+a.menu-toggle.full {
+    text-align: right;
+}
+
+.stellarnav a.dd-toggle .icon-plus:after {
+    border-bottom: solid 1px #777;
+}
+
+.stellarnav a.dd-toggle .icon-plus:before {
+    border-bottom: solid 1px #777;
+}
+
+/*----===========HEADER AREA CSS----============*/
